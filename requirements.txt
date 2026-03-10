@@ -1,0 +1,7 @@
+customtkinter
+keyboard
+pandas
+pyperclip
+plyer
+pystray
+Pillow
