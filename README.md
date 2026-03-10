@@ -1,6 +1,6 @@
 # 🐾 CãoLector - Clipboard & Ticket Tracker
 
-![CãoLector Logo](logo_hd.png)
+![CãoLector Logo](logo_HD.png)
 
 O **CãoLector** é um utilitário de produtividade desenvolvido em Python (com interface moderna via `customtkinter`) para otimizar a captura, rastreamento e registro rápido de tickets, protocolos e anotações. Ele elimina o atrito de alternar janelas e usar o bloco de notas durante a operação.
 
