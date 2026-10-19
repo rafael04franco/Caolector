@@ -1,0 +1,14 @@
+# Executáveis e compilação
+*.exe
+build/
+dist/
+*.spec
+
+# Dados locais do CãoLector (MUITO IMPORTANTE NÃO SUBIR PARA O GITHUB)
+backup.json
+settings.json
+caolector.log
+
+# Cache do Python
+__pycache__/
+*.pyc
